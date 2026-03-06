@@ -20,6 +20,9 @@ This research code is mainly divided into MATLAB code. We used MATLAB for data p
                 Step 4: Evaluate the impacts of E_SMR, E_prec, and near-surface air temperature (airT) 
                     on the start of season (SOS) using the nonlinear mixed-effects model, 
                                 and quantify their relative contributions.
+
+  
+                Step 5: Quantification of active layer thickness and its influence on soil moisture dynamics.                               
           
                        We uploaded a Demon.mat database to test the usability of the code
 
