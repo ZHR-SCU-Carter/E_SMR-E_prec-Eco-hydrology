@@ -4,7 +4,7 @@ This is the reproduction code of the results of the article "freeze thaw driven 
 This research code is mainly divided into MATLAB code. We used MATLAB for data processing, analysis of θcri, implementation of sliding segmentation, modeling of linear mixed effects model and quantify the contribution rate of meteorological and hydrological element variables to soil moisture content at different depths in the main research.
 
 
-                    The overall workflow for the MATLAB R2022b scripts used in this study.
+                    The overall workflow for the MATLAB R2024b scripts used in this study.
 
                   Step 1: Identify the site-specific θ_cri (critical soil moisture threshold)
                      using the procedures provided in "1 - theta_cri_determination.m".
